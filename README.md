@@ -39,4 +39,4 @@ Este proyecto presenta un análisis completo de las series temporales de precios
 
 Este análisis demuestra cómo la estadística aplicada y la visualización estratégica pueden apoyar decisiones de inversión más informadas. La baja correlación entre IBM y Walmart refuerza el valor de la diversificación, mientras que los modelos de predicción permiten anticipar movimientos con base en patrones históricos.
   
- (https://www.linkedin.com/in/karinaserranomiranda/)!
+ (https://www.linkedin.com/in/karina-serrano-data-science/)!
